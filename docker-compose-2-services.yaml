@@ -1,0 +1,8 @@
+version: '3'
+services:
+  service_one:
+    image: 'hello-world'
+
+  service_two:
+    image: 'hello-world'
+
